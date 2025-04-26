@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'apgyorfi', // Usually your GitHub org/user name.
-  projectName: 'devnotes', // Usually your repo name.
+  projectName: 'notes.apgyorfi.dev', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/apgyorfi/devnotes/tree/main/',
+            'https://github.com/apgyorfi/notes.apgyorfi.dev/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/apgyorfi/devnotes/tree/main/',
+            'https://github.com/apgyorfi/notes.apgyorfi.dev/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/apgyorfi/devnotes',
+            href: 'https://github.com/apgyorfi/notes.apgyorfi.dev',
             label: 'GitHub',
             position: 'right',
           },
@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/apgyorfi/devnotes',
+                href: 'https://github.com/apgyorfi/notes.apgyorfi.dev',
               },
             ],
           },
