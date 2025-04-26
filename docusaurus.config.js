@@ -119,7 +119,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tudásbázis',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -133,16 +133,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Jegyzetek',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Tudásbázis',
+                to: '/docs/tudásbázis',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Kapcsolat',
             items: [
               {
                 label: 'Stack Overflow',
@@ -159,7 +159,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Továbbiak',
             items: [
               {
                 label: 'Blog',
