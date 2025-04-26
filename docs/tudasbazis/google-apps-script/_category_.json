@@ -1,0 +1,12 @@
+{
+    "label": "Google Apps Script",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "google-apps-script",
+    "link": {
+      "type": "generated-index",
+      "title": "Google Apps Script megoldások",
+      "description": "A Google Apps Script egy szkriptplatform, amelyet a Google fejlesztett ki a Google Workspace platformon történő könnyű alkalmazások fejlesztésére."
+
+    }
+  }
