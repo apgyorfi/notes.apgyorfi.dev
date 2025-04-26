@@ -1,37 +1,13 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
-
 apgyorfi:
   name: Györfi Péter
   title: szoftverfejlesztő
   url: https://apgyorfi.dev
   image_url: https://github.com/apgyorfi.png
-  page: false
+  page: true
     # customize the url of the author page at /blog/authors/<permalink>
     # permalink: '/all-apgyorfi-articles'
   socials:
-    x: apgyorfi
+    facebook: apgyorfi
     linkedin: apgyorfi
     github: apgyorfi
     newsletter: https://thisweekinreact.com
