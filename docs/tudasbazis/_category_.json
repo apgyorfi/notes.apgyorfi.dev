@@ -1,6 +1,7 @@
 {
     "label": "Tudásbázis",
     "position": 1,
+    "className": "tudasbazis",
     "link": {
       "type": "generated-index",
       "description": "Hasznos információk programozáshoz"
