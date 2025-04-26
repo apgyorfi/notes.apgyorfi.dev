@@ -3,9 +3,9 @@ apgyorfi:
   title: szoftverfejlesztő
   url: https://apgyorfi.dev
   image_url: https://github.com/apgyorfi.png
-  page: false
+  page: apgyorfi
     # customize the url of the author page at /blog/authors/<permalink>
-    # permalink: '/all-apgyorfi-articles'
+    permalink: '/apgyorfi'
   socials:
     facebook: apgyorfi
     linkedin: apgyorfi
