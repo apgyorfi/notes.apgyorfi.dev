@@ -122,6 +122,7 @@ const config = {
             label: 'Tudásbázis',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://apgyorfi.dev', label: 'Weboldal', position: 'left'},
           {
             href: 'https://github.com/apgyorfi/notes.apgyorfi.dev',
             label: 'GitHub',
