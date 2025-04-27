@@ -12,7 +12,7 @@ A GitHub repository beállításaiban a `/settings/secrets/actions` oldalon 3 re
 2. `FTP_USERNAME`
 3. `FTP_SERVER`
 
-## deploy.iml
+## deploy.yml
 
 A repositoryban `.github/workflows/deploy.yml` néven kell létrehozni a fájlt, amit futtatni szeretnénk:
 ```
