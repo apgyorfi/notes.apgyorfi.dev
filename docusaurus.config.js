@@ -79,7 +79,7 @@ const config = {
         appId: '8XJJCHI4V4',
   
         // Public API key: it is safe to commit it
-        apiKey: '7c9e7af05e452ef2174f1b8fd2983245',
+        apiKey: '320770e88fc3f4043b2f93effa96a3c4',
   
         indexName: 'apgyorfi',
   
