@@ -76,12 +76,12 @@ const config = {
       // Replace with your project's social card
       algolia: {
         // The application ID provided by Algolia
-        appId: 'YOUR_APP_ID',
+        appId: '8XJJCHI4V4',
   
         // Public API key: it is safe to commit it
-        apiKey: 'YOUR_SEARCH_API_KEY',
+        apiKey: '7c9e7af05e452ef2174f1b8fd2983245',
   
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'apgyorfi',
   
         // Optional: see doc section below
         contextualSearch: true,
