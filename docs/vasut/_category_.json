@@ -1,0 +1,10 @@
+{
+    "label": "Vasút",
+    "position": 1,
+    "className": "vasut",
+    "link": {
+      "type": "generated-index",
+      "description": "Tanfolyami jegyzetek"
+    }
+  }
+  
